@@ -1,0 +1,1 @@
+NET "clk" PERIOD = 31.25 ns;
