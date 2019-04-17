@@ -8,13 +8,17 @@ This is the code for the tutorial for hooking up the [Papilio Pro](https://www.s
 to the [Papilio Button LED Wing](https://www.sparkfun.com/products/11509). 
 You can find the repo for the Wing [here](https://github.com/sparkfun/Papilio_Button_LED_Wing). 
 
-The tutorial is available at Learn.SparkFun.com [here](https://learn.sparkfun.com/tutorials/fpga-papilio-pro). 
+The tutorial is available at Learn.SparkFun.com [here](https://learn.sparkfun.com/tutorials/programming-fpgas-papilio-pro). 
 
 
 Repository Contents
 -------------------
 * **/Bitstream** - Files for programming the Papilio Pro. 
 * **/Source Files** - Demo files for the tutorial.  
+
+Documentation
+-------------------
+* [Hookup Guide](https://learn.sparkfun.com/tutorials/programming-fpgas-papilio-pro)
 
 License Information
 -------------------
